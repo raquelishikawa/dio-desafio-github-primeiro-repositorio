@@ -1,0 +1,4 @@
+1. O Git Bash é um terminal extendido para otimizar o uso do Git;
+2. git status = traz as atualizações que temos em nossa branch (repositório)
+3. git add . = adiciona os arquivos apresentados pela atualização
+4. git commit -m "Nome da empresa ou do Lugar + alterações + mini descrição"
